@@ -2,7 +2,7 @@
 
 **Java Full Stack Developer** – Java • HTML • CSS • SQL • JavaScript 
 
-- 🔭 Current project: **Stress Level Prediction using Deep Learning** (Python + TensorFlow)
+- 🔭 Current project: **Stress Level Prediction using Deep Learning** 
 - 📊 Completed Internship: **Power BI Internship – Cognifyz Technologies**
 - 🌱 Learning: Advanced Java, Full Stack Development
 - 📫 Email: motherohith852@gmail.com • 📱 9392625143
